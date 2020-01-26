@@ -1,0 +1,1 @@
+alert("Hey i am called from separate javascript file");
